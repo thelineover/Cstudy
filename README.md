@@ -11,4 +11,4 @@
 
 ---
 
-# Just study and improve myself Everyday :facepunch: :trophy:
+# Just study and improve myself Everyday :facepunch::trophy:
