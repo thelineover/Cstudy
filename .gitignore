@@ -1,4 +1,6 @@
-# Compiled source #
-###################
+# Compiled files
 *.dll
 *.exe
+
+# IDE settings
+*.code-workspace
