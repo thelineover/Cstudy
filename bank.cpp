@@ -154,4 +154,5 @@ void Inquire()
         cout << "name : " << pArray[i].name << endl;
         cout << "balance : " << pArray[i].balance << endl;
     }
+    cout << "============================";
 }
