@@ -8,4 +8,4 @@
 ![](images/test.jpg)
 ---
 
-# Just study and improve my self
+# Just study and improve myself
