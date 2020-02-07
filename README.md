@@ -4,8 +4,11 @@
 ## c++ programing
 
 - Easy to start and work hard
----
-![](images/test.jpg)
+  
 ---
 
-# Just study and improve myself
+![wallpaper](images/test.jpg)
+
+---
+
+# Just study and improve myself Everyday :facepunch: :trophy:
